@@ -1,5 +1,7 @@
 # getusermedia-to-text
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/getusermedia-to-text.svg)](https://greenkeeper.io/)
+
 getUserMedia to Text via Google's Speech to Text API.
 
 ```
