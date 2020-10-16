@@ -40,7 +40,7 @@
     "choo": "^5.1.5",
     "choo-log": "^6.1.1",
     "dependency-check": "^2.8.0",
-    "electron": "^1.6.5",
+    "electron": "^7.2.4",
     "electron-rebuild": "^1.5.7",
     "global": "^4.3.1",
     "npm-run-all": "^4.0.2",
